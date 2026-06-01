@@ -43,16 +43,4 @@ python3 router_ids.py
 - F1 Score: 0.9477
 - AUC: 0.9962
 - False Positive Rate: 0.27%
-- All 5 attack phases detected
-
-## Attack Phases
-| Phase | Type | Time |
-|---|---|---|
-| Phase 1 | UDP Small Flood | t=80-120s |
-| Phase 2 | UDP Large Flood | t=140-180s |
-| Phase 3 | ICMP Flood | t=195-235s |
-| Phase 4 | TCP SYN Flood | t=225-265s |
-| Phase 5 | TCP ACK Flood | t=260-290s |
-
-## Author
-Postgraduate Diploma Applied Project
+- All 5 attack phases deteced
