@@ -1,7 +1,7 @@
-/* ============================================================
-   Smart Cart Retail Network DDoS Simulation
-   NS-3.40 — Ubuntu
-   ============================================================ */
+/* ====================================================================
+   Smart Cart Retail Network normal and DDOS attack traffic simulation
+   NS-3.40 
+   ===================================================================
 
 #include "ns3/core-module.h"
 #include "ns3/network-module.h"
